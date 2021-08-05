@@ -6,7 +6,7 @@ html {
 }
 
 *, *::before, *::after {
-  box-sizing: inheret;
+  box-sizing: inherit;
 }
 
 img {
@@ -14,6 +14,7 @@ img {
 }
 
 h1, h2 {
+  font-family: 'Patua One', serif;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -27,6 +28,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: sans-serif;
 }
 
 nav ol {
